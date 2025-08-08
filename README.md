@@ -15,3 +15,7 @@ Welcome to the Cinema Booking Web Application repository! This web application w
 - **SQL Server:** 🗄️ Relational database management system for storing application data.
 - **HTML/CSS/JavaScript:** 🖥️ Frontend technologies for building the user interface.
 - **Bootstrap:** 📱 Frontend framework for designing responsive and mobile-first websites.
+
+## Contributors
+Shubham Kumar Gupta (https://github.com/ShubhamGupta7050)
+Shivam Singh Chandel (https://github.com/shivathakur29)
